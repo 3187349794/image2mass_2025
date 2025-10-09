@@ -4,7 +4,7 @@
 
 原地址https://github.com/tstandley/image2mass
 
-
+还需下载pklzs模型到同级目录https://drive.google.com/drive/folders/17yEukxIyjyen3vJ8nuX_YklnsVBZBol4
 
 # Environment Construction
 ```
