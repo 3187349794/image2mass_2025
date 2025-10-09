@@ -1,6 +1,7 @@
 # image2mass_2025version
 
 本项目基于 tstandley/image2mass 库。本项目更新了依赖管理和运行流程，以确保代码能在现代 Windows/Anaconda 系统上运行。
+
 本项目将原项目的英寸和磅改为了厘米（cm）和克（g）。
 
 原地址https://github.com/tstandley/image2mass
